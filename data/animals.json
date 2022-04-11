@@ -108,7 +108,25 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Joe",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
+    },
+    {
+      "name": "Darlene",
+      "id": "jhgdja3ng2"
     }
-
   ]
 }
